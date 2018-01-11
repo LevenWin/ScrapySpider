@@ -5,7 +5,7 @@
   + scrapy
   + scrapy-redis
   + pymongo
-  + graphite
+
 
 ### 如何运行
 先保证已安装相关依赖库，以及mongodb服务，redis服务已开启
